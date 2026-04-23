@@ -1,5 +1,4 @@
 ﻿using BulkyWeb.Models;
-using BulkyWeb.Models;
 using Microsoft.EntityFrameworkCore;
 
 
@@ -105,6 +104,7 @@ namespace BulkyWeb.Data
                      ListPrice = 25,
                      Price = 23,
                      Price50 = 22,
+                     Price100 = 19,
                      CategoryId = 3,
                      ImageUrl = ""
                  }

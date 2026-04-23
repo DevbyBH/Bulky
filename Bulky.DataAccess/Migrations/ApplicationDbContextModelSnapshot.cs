@@ -78,7 +78,6 @@ namespace Bulky.DataAccess.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ISBN")
@@ -86,7 +85,6 @@ namespace Bulky.DataAccess.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ImageUrl")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<double>("ListPrice")
@@ -192,7 +190,7 @@ namespace Bulky.DataAccess.Migrations
                             ImageUrl = "",
                             ListPrice = 25.0,
                             Price = 23.0,
-                            Price100 = 0.0,
+                            Price100 = 19.0,
                             Price50 = 22.0,
                             Title = "Leaves and Wonders"
                         });
