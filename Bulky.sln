@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulky.DataAccess", "Bulky.D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulky.Models", "Bulky.Models\Bulky.Models.csproj", "{1560DB09-8A4B-44E0-B86A-F0D75B1A6EB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulky_Utility", "Bulky_Utility\Bulky_Utility.csproj", "{7F6B32DA-D9E3-48B7-9052-85DB0AB66D89}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulky.Utility", "Bulky_Utility\Bulky.Utility.csproj", "{7F6B32DA-D9E3-48B7-9052-85DB0AB66D89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
